@@ -5,7 +5,7 @@ This is an iOS app built using swift
 - [x] The screen has a background color that can change when the button is tapped
 
 **App Walkthrough:**  
-![](https://i.imgur.com/Ic4VN6S.mp4)
+[colorchanger](https://i.imgur.com/Ic4VN6S.mp4)
 
 **<h4>App Brainstorming:</h4>**
 
