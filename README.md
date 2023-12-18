@@ -1,6 +1,8 @@
 # codepath-Prework
 Codepath Prework Project  
-This is an iOS app built using swift
+This is an iOS app built using swift  
+- [x] User can run application showing a screen with a button and at least a couple of labels
+- [x] The screen has a background color that can change when the button is tapped
 
 **<h4>App Brainstorming:</h4>**
 
